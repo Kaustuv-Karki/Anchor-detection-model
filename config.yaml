@@ -1,0 +1,6 @@
+path: D:/AI-Anchor/Anchor-detection-model
+train: images/train
+val: images/train
+
+names:
+    0: anchor
