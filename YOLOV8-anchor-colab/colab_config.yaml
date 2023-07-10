@@ -1,0 +1,6 @@
+path: "/content/gdrive/MyDrive/YOLOV8-anchor"
+train: images/train
+val: images/train
+
+names:
+    0: anchor
