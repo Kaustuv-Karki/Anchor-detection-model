@@ -1,1 +1,1 @@
-This is for Major Project
+This is for Major Project Thapathali Campus
